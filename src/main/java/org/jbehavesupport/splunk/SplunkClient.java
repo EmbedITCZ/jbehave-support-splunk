@@ -1,14 +1,13 @@
 package org.jbehavesupport.splunk;
 
 import org.jbehavesupport.splunk.internal.SplunkOutputModes;
-import org.jbehavesupport.splunk.SplunkSearchResultEntry;
 
 import java.util.List;
 
 
 /**
- * WARNING: Splunk implementation is still under active development and changes can/will be done.
- * Please use at your own risk. If you want to use org.jbehavesupport.splunk support please contact us and let us know.
+ * WARNING: Not supported, please use at your own risk. If you want/plan to use this please contact us and let us know
+ * (so that we might potentially continue development if there is enough interest).
  * <p>
  * This an interface exposing search entry points for Splunk Java SDK.
  * <p>
